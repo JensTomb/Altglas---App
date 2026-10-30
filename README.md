@@ -57,7 +57,7 @@ I am very open to new ideas and feature suggestions! Potential future additions:
 ## 📱 App Impressions / App-Eindrücke
 
 <p align="center">
-  <img src="assets/screenshots/screenshot_main.png" width="30%" alt="Main Screen"> &nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/Screenshot_20261030-132318.png" width="30%" alt="Main Screen"> &nbsp;&nbsp;&nbsp;
   <img src="assets/screenshots/screenshot_tools.png" width="30%" alt="Tools Menu"> &nbsp;&nbsp;&nbsp;
   <img src="assets/screenshots/screenshot_details.png" width="30%" alt="Lens Details">
 </p>
